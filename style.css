@@ -1,0 +1,14 @@
+
+body {
+    font-size:22px;
+    font-family:Times new roman;
+    background:papayawhip;
+    color:black;
+
+}
+
+h1{
+    border:2px dashed green;
+    width:auto;
+    font-size: 2rem;
+}
